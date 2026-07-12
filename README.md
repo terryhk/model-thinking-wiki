@@ -8,6 +8,7 @@
 |------|------|---------|
 | [第1章 物理化学](01_physics_chemistry/README.md) | 宇宙最底层的7条法则 | 7 |
 | [第2章 数学](02_mathematics/README.md) | 宇宙的语言写了9条法则 | 9 |
+| [第3章 生物学](03_biology/README.md) | 进化教我的3件事 | 3 |
 
 ## 模型速览
 
@@ -36,6 +37,14 @@
 | MT-7 | [幂律分布](02_mathematics/MT-7_power_laws.md) | 极少数关键事物带来绝大多数收益 | |
 | MT-8 | [正态分布](02_mathematics/MT-8_normal_distribution.md) | 独立随机因素导致钟形分布 | |
 | MT-9 | [代数等价](02_mathematics/MT-9_algebraic_equivalence.md) | 看问题、找已知、列等式、求解 | |
+
+### 第3章 生物学
+
+| 编号 | 模型名称 | 核心洞见 | 核心程度 |
+|------|---------|---------|---------|
+| BI-1 | [现代达尔文综合模型](03_biology/BI-1_darwinian_synthesis.md) | 突变产生原材料，自然选择决定方向 | |
+| BI-2 | [生物学思维模型](03_biology/BI-2_biological_thinking.md) | 接受不确定性，用迭代取代完美 | ⭐核心 |
+| BI-3 | [巴甫洛夫反射模型](03_biology/BI-3_pavlovian_reflex.md) | 条件反射——上瘾模型的心理学基础 | |
 
 ## 许可证
 
