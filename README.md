@@ -9,7 +9,8 @@
 | [第1章 物理化学](01_physics_chemistry/README.md) | 宇宙最底层的7条法则 | 7 |
 | [第2章 数学](02_mathematics/README.md) | 宇宙的语言写了9条法则 | 9 |
 | [第3章 生物学](03_biology/README.md) | 进化教我的3件事 | 3 |
-| [第4章 心理学](04_psychology/README.md) | 人类认知的底层代码——22个模型读懂大脑 | 22 |
+| [第4章 心理学](04_psychology/README.md) | 人类认知的底层代码 | 22 |
+| [第5章 哲学及逻辑学](05_philosophy/README.md) | 如何正确地思考 | 14 |
 
 ## 模型速览
 
@@ -73,6 +74,25 @@
 | PS-20 | [情绪模型](04_psychology/PS-20_emotion.md) | 情绪是信号，不是敌人 | |
 | PS-21 | [框架效应](04_psychology/PS-21_framing.md) | 表达方式改变决策 | |
 | PS-22 | [心理账户](04_psychology/PS-22_mental_accounting.md) | 主观地为金钱分类，导致非理性选择 | |
+
+### 第5章 哲学及逻辑学
+
+| 编号 | 模型名称 | 核心洞见 | 核心程度 |
+|------|---------|---------|---------|
+| PH-1 | [奥卡姆剃刀](05_philosophy/PH-1_occams_razor.md) | 如无必要，勿增实体 | |
+| PH-2 | [第一性原理](05_philosophy/PH-2_first_principles.md) | 回归最基本的命题，绕过未经检验的假设 | ⭐核心 |
+| PH-3 | [批判性思维](05_philosophy/PH-3_critical_thinking.md) | 对思维方式本身的思考 | |
+| PH-4 | [演绎法](05_philosophy/PH-4_deduction.md) | 从前提推演结论 | |
+| PH-5 | [数据认知](05_philosophy/PH-5_data_literacy.md) | 只说事实不说观点 | |
+| PH-6 | [逆向思维](05_philosophy/PH-6_inversion.md) | 从对立面思考——「如果我知道会死在哪里，就不去那里」 | |
+| PH-7 | [决策树](05_philosophy/PH-7_decision_tree.md) | 创建到达目标的规划，与概率思维结合 | |
+| PH-8 | [系统思维](05_philosophy/PH-8_systems_thinking.md) | 将事物作为系统思考——要素、连接、功能 | ⭐核心 |
+| PH-9 | [六顶思考帽](05_philosophy/PH-9_six_thinking_hats.md) | 平行思维——从不同角度思考同一问题 | |
+| PH-10 | [整合思维](05_philosophy/PH-10_integrative_thinking.md) | 不在对立中二选一，而是找到容纳两者的更好方案 | |
+| PH-11 | [二阶思维](05_philosophy/PH-11_second_order.md) | 不只想「会发生什么」，还想「然后呢？」 | |
+| PH-12 | [思想实验](05_philosophy/PH-12_thought_experiment.md) | 用想象力进行的实验 | |
+| PH-13 | [汉隆剃刀](05_philosophy/PH-13_hanlons_razor.md) | 能解释为愚蠢的，就不要解释为恶意 | |
+| PH-14 | [地图不是疆域](05_philosophy/PH-14_map_territory.md) | 模型只是现实的抽象，不要把模型当作现实 | |
 
 ## 许可证
 
