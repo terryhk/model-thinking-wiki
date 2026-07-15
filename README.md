@@ -1,99 +1,44 @@
-# Model Thinking Wiki
+# 《构建你的格栅思维》
 
-思维模型跨学科知识库——每个学科都是摸象的瞎子，掌握多学科核心思维才能对世界有真实了解。
+### 100+个思维模型的完整解码系统
 
-## 章节
+每个学科都是摸象的瞎子——掌握多学科核心思维，才能看到完整的大象。
 
-| 章节 | 学科 | 模型数量 |
-|------|------|---------|
-| [第1章 物理化学](01_physics_chemistry/README.md) | 宇宙最底层的7条法则 | 7 |
-| [第2章 数学](02_mathematics/README.md) | 宇宙的语言写了9条法则 | 9 |
-| [第3章 生物学](03_biology/README.md) | 进化教我的3件事 | 3 |
-| [第4章 心理学](04_psychology/README.md) | 人类认知的底层代码 | 22 |
-| [第5章 哲学及逻辑学](05_philosophy/README.md) | 如何正确地思考 | 14 |
+---
 
-## 模型速览
+你有没有想过，为什么经济学家解释不了股市疯狂，为什么心理学家预测不了商业趋势，为什么物理学家设计不了成功的组织？
 
-### 第1章 物理化学
+不是因为他们不聪明。是因为每个学科都只能摸到大象的一部分。
 
-| 编号 | 模型名称 | 核心洞见 | 核心程度 |
-|------|---------|---------|---------|
-| PC-1 | [熵增定律](01_physics_chemistry/PC-1_entropy_law.md) | 封闭系统趋向混乱，有序需要持续输入负熵 | ⭐核心 |
-| PC-2 | [临界点](01_physics_chemistry/PC-2_critical_point.md) | 成效提高是非线性的，质变发生在临界点 | ⭐核心 |
-| PC-3 | [自催化](01_physics_chemistry/PC-3_autocatalysis.md) | 反应产物成为催化剂，加速自身反应 | |
-| PC-4 | [费曼学习法](01_physics_chemistry/PC-4_feynman_method.md) | 以输出倒逼输入，教是最好的学 | ⭐核心 |
-| PC-5 | [耗散结构](01_physics_chemistry/PC-5_dissipative_structure.md) | 开放系统通过输入负熵，从混乱走向高层次有序 | |
-| PC-6 | [反作用力](01_physics_chemistry/PC-6_reaction_force.md) | 作用力必遭反作用力，做事要预测阻力 | |
-| PC-7 | [倾覆力矩](01_physics_chemistry/PC-7_overturning_moment.md) | 抗倾覆力矩必须大于倾覆力矩——安全边际的物理原型 | |
+查理·芒格说过：「手里只有铁锤的人，看什么都像钉子。」《构建你的格栅思维》不是一本模型词典，而是一张连结地图——帮你把100多个思维模型编织成格栅，看到模型之间的隐秘通道：为什么物理学的临界点可以解释商业的飞轮效应，为什么心理学的认知误判可以预警投资的价值陷阱，为什么数学的复利可以贯穿从财富到知识到健康的所有领域。
 
-### 第2章 数学
+贯穿全书的核心心法：**宇宙趋向混乱，有序需要能量；概率照亮方向，迭代逼近正确。**
 
-| 编号 | 模型名称 | 核心洞见 | 核心程度 |
-|------|---------|---------|---------|
-| MT-1 | [复利](02_mathematics/MT-1_compound_interest.md) | 做A导致B，B反过来增强A，指数增长 | ⭐核心 |
-| MT-2 | [排列组合](02_mathematics/MT-2_permutation_combination.md) | 先归类后排列，创新是对现有要素的新组合 | ⭐核心 |
-| MT-3 | [大数定律](02_mathematics/MT-3_law_of_large_numbers.md) | 样本足够多时，平均概率接近期望值 | |
-| MT-4 | [费马帕斯卡系统](02_mathematics/MT-4_fermat_pascal.md) | 测度事情发生的真实概率 | ⭐核心 |
-| MT-5 | [博弈论](02_mathematics/MT-5_game_theory.md) | 根据对方策略调整自己策略 | |
-| MT-6 | [分形理论](02_mathematics/MT-6_fractal_theory.md) | 不同尺度下的自相似性 | |
-| MT-7 | [幂律分布](02_mathematics/MT-7_power_laws.md) | 极少数关键事物带来绝大多数收益 | |
-| MT-8 | [正态分布](02_mathematics/MT-8_normal_distribution.md) | 独立随机因素导致钟形分布 | |
-| MT-9 | [代数等价](02_mathematics/MT-9_algebraic_equivalence.md) | 看问题、找已知、列等式、求解 | |
+- 🎯 **渴望升级思维框架的职场人** — 你被单一框架限制了，你需要的是一座桥，不是一本教科书
+- 📈 **践行芒格理念的投资人** — 先吃透13个核心模型，再看它们如何互连
+- 🧭 **面临复杂决策的管理者** — 你需要的是格栅，不是更多的数据
+- 🔓 **所有不想被单一学科限制的人** — 如果你相信世界比任何一门学科所描述的都更复杂
 
-### 第3章 生物学
+---
 
-| 编号 | 模型名称 | 核心洞见 | 核心程度 |
-|------|---------|---------|---------|
-| BI-1 | [现代达尔文综合模型](03_biology/BI-1_darwinian_synthesis.md) | 突变产生原材料，自然选择决定方向 | |
-| BI-2 | [生物学思维模型](03_biology/BI-2_biological_thinking.md) | 接受不确定性，用迭代取代完美 | ⭐核心 |
-| BI-3 | [巴甫洛夫反射模型](03_biology/BI-3_pavlovian_reflex.md) | 条件反射——上瘾模型的心理学基础 | |
+**目录**
 
-### 第4章 心理学
+- [前言：从一把铁锤到一张格栅](00_preface/README.md)
+- [第1章 物理化学：宇宙最底层的7条法则](01_physics_chemistry/README.md)（7个模型）
+- [第2章 数学：宇宙的语言写了9条法则](02_mathematics/README.md)（9个模型）
+- [第3章 生物学：进化教我的3件事](03_biology/README.md)（3个模型）
+- [第4章 心理学：人类认知的底层代码](04_psychology/README.md)（22个模型）
+- [第5章 哲学及逻辑学：如何正确地思考](05_philosophy/README.md)（14个模型）
+- 第6章 经济金融学：资源在稀缺中流动（17个模型）*即将发布*
+- 第7章 商学：企业如何创造、交付和捕获价值（20个模型）*即将发布*
+- 第8-13章 *后续发布*
 
-| 编号 | 模型名称 | 核心洞见 | 核心程度 |
-|------|---------|---------|---------|
-| PS-1 | [认知误判模型](04_psychology/PS-1_cognitive_biases.md) | 芒格25种人类误判心理学，决策时逐一对照 | ⭐核心 |
-| PS-2 | [幸存者偏差](04_psychology/PS-2_survivorship_bias.md) | 只看成功者特征，忽略大量同特征的失败者 | |
-| PS-3 | [证实偏差](04_psychology/PS-3_confirmation_bias.md) | 只看见支持自己观点的论据 | |
-| PS-4 | [峰终定律](04_psychology/PS-4_peak_end_rule.md) | 体验由峰值和结束时感受决定 | |
-| PS-5 | [心流理论](04_psychology/PS-5_flow.md) | 全心投入的最优体验状态 | |
-| PS-6 | [三重心智](04_psychology/PS-6_three_mind.md) | 自主心智、算法心智、反省心智 | |
-| PS-7 | [马斯洛需求层次](04_psychology/PS-7_maslow.md) | 从生存到自我实现的递进 | |
-| PS-8 | [元认知](04_psychology/PS-8_metacognition.md) | 对认知的认知——对自己思维过程的反思 | ⭐核心 |
-| PS-9 | [冰山理论](04_psychology/PS-9_iceberg.md) | 表象之下隐藏着本质 | |
-| PS-10 | [影响力模型](04_psychology/PS-10_influence.md) | 互惠、承诺一致、社会认同、权威、喜好、稀缺 | |
-| PS-11 | [卡尼曼双系统](04_psychology/PS-11_dual_system.md) | 系统1快速直觉，系统2缓慢理性 | ⭐核心 |
-| PS-12 | [情商模型](04_psychology/PS-12_eq.md) | 自我认知、自我管理、社会认知、关系管理 | |
-| PS-13 | [艾宾浩斯遗忘曲线](04_psychology/PS-13_forgetting_curve.md) | 记忆遗忘先快后慢，间隔重复对抗遗忘 | |
-| PS-14 | [刻意练习](04_psychology/PS-14_deliberate_practice.md) | 只在学习区大量重复+有效反馈+心理表征 | ⭐核心 |
-| PS-15 | [NLP思维逻辑层次](04_psychology/PS-15_nlp_levels.md) | 环境→行为→能力→信念→身份→精神 | |
-| PS-16 | [锚定效应](04_psychology/PS-16_anchoring.md) | 判断被初始值绑架 | |
-| PS-17 | [成长型思维](04_psychology/PS-17_growth_mindset.md) | 能力可以后天培养 | |
-| PS-18 | [多维视角](04_psychology/PS-18_multi_perspective.md) | 从多个角度理解同一事物 | |
-| PS-19 | [神经可塑性](04_psychology/PS-19_neuroplasticity.md) | 大脑可以改变——用进废退 | |
-| PS-20 | [情绪模型](04_psychology/PS-20_emotion.md) | 情绪是信号，不是敌人 | |
-| PS-21 | [框架效应](04_psychology/PS-21_framing.md) | 表达方式改变决策 | |
-| PS-22 | [心理账户](04_psychology/PS-22_mental_accounting.md) | 主观地为金钱分类，导致非理性选择 | |
+**分轨学习路线**
 
-### 第5章 哲学及逻辑学
+- 🚀 快速入门：前言 → 第1-2章 → 第4-5章
+- 📖 系统学习：从头到尾按顺序阅读
+- 💰 投资者路线：前言 → 第1章 → 第4章 → 第12章
 
-| 编号 | 模型名称 | 核心洞见 | 核心程度 |
-|------|---------|---------|---------|
-| PH-1 | [奥卡姆剃刀](05_philosophy/PH-1_occams_razor.md) | 如无必要，勿增实体 | |
-| PH-2 | [第一性原理](05_philosophy/PH-2_first_principles.md) | 回归最基本的命题，绕过未经检验的假设 | ⭐核心 |
-| PH-3 | [批判性思维](05_philosophy/PH-3_critical_thinking.md) | 对思维方式本身的思考 | |
-| PH-4 | [演绎法](05_philosophy/PH-4_deduction.md) | 从前提推演结论 | |
-| PH-5 | [数据认知](05_philosophy/PH-5_data_literacy.md) | 只说事实不说观点 | |
-| PH-6 | [逆向思维](05_philosophy/PH-6_inversion.md) | 从对立面思考——「如果我知道会死在哪里，就不去那里」 | |
-| PH-7 | [决策树](05_philosophy/PH-7_decision_tree.md) | 创建到达目标的规划，与概率思维结合 | |
-| PH-8 | [系统思维](05_philosophy/PH-8_systems_thinking.md) | 将事物作为系统思考——要素、连接、功能 | ⭐核心 |
-| PH-9 | [六顶思考帽](05_philosophy/PH-9_six_thinking_hats.md) | 平行思维——从不同角度思考同一问题 | |
-| PH-10 | [整合思维](05_philosophy/PH-10_integrative_thinking.md) | 不在对立中二选一，而是找到容纳两者的更好方案 | |
-| PH-11 | [二阶思维](05_philosophy/PH-11_second_order.md) | 不只想「会发生什么」，还想「然后呢？」 | |
-| PH-12 | [思想实验](05_philosophy/PH-12_thought_experiment.md) | 用想象力进行的实验 | |
-| PH-13 | [汉隆剃刀](05_philosophy/PH-13_hanlons_razor.md) | 能解释为愚蠢的，就不要解释为恶意 | |
-| PH-14 | [地图不是疆域](05_philosophy/PH-14_map_territory.md) | 模型只是现实的抽象，不要把模型当作现实 | |
+---
 
-## 许可证
-
-本项目采用 [GNU General Public License v3.0](LICENSE) 许可证发布。
+本书内容采用 [GNU General Public License v3.0](LICENSE) 许可证发布。
