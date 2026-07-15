@@ -37,7 +37,7 @@
 **[第三部分：人在社会中如何行动](part3_social_action/README.md)**
 - [第6章 经济金融学：资源在稀缺中流动](06_economics/README.md)（17个模型）
 - [第7章 商学：企业如何创造、交付和捕获价值](07_business/README.md)（20个模型）
-- 第8章 管理学：如何把事情做成（20个模型）*即将发布*
+- [第8章 管理学：如何把事情做成](08_management/README.md)（20个模型）
 - 第9-11章 社会学·营销学·设计学 *后续发布*
 
 **[第四部分：综合应用](part4_application/README.md)**
