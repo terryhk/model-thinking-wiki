@@ -43,8 +43,8 @@
 - [第11章 设计学：以人为本的问题解决](11_design/README.md)（1个模型）
 
 **[第四部分：综合应用](part4_application/README.md)**
-- 第12章 投资学：所有学科的综合考场 *后续发布*
-- 第13章 其他模型：补完格栅的最后一块 *后续发布*
+- [第12章 投资学：所有学科的综合考场](12_investing/README.md)（8个模型）
+- [第13章 其他模型：补完格栅的最后一块](13_other_models/README.md)（12个模型）*即将发布*
 
 **[终章：格栅的组合力量](part5_synthesis/README.md)**
 - Lollapalooza效应 × 三步构建法 × 内化路径 *后续发布*
