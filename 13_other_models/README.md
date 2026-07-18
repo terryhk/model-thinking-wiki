@@ -22,10 +22,6 @@
 | PNI-3 | [递弱代偿](PNI-3_recursive_compensation.md) | 存在度越低属性越多——越复杂越脆弱 |
 | PNI-4 | [归因理论](PNI-4_attribution_theory.md) | 人们如何解释事件的原因 |
 
----
-
-## 次要模型
-
 
 ---
 
