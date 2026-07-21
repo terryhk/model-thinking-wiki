@@ -48,9 +48,6 @@
 - [终章 格栅的组合力量](14_conclusion/README.md)（Lollapalooza + 三步构建法 + 内化路径 + 实践总结）
 - [附录](15_appendix/README.md)（模型索引 + 连结图谱 + 投资应用 + 推荐书单）
 
-**[终章：格栅的组合力量](part5_synthesis/README.md)**
-- Lollapalooza效应 × 三步构建法 × 内化路径 *后续发布*
-
 **分轨学习路线**
 
 - 🚀 快速入门：前言 → 第1-2章 → 第4-5章
