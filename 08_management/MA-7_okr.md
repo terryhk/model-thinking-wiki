@@ -1,4 +1,4 @@
-### MA-7 OKR目标管理
+# MA-7 OKR目标管理
 
 **1. 一句话理解**
 
@@ -22,7 +22,7 @@ OKR = Objective（目标）+ Key Results（关键结果）。O是定性的——
 
 **6. 与其他模型关系**
 
-→ SMART（MA-11）：SMART检验KR是否合格——每个KR都应该符合SMART标准。→ 黄金圈理论（MA-2）：O表达Why，KR表达What——OKR是黄金圈在目标管理中的落地工具。
+→ [SMART（MA-11）](MA-11_smart.md)：SMART检验KR是否合格——每个KR都应该符合SMART标准。→ [黄金圈理论（MA-2）](MA-2_golden_circle.md)：O表达Why，KR表达What——OKR是黄金圈在目标管理中的落地工具。
 
 **7. 其他**
 

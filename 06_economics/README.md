@@ -68,7 +68,7 @@
 
 🔗 **跨学科连结**
 
-本章最重要的出口是「机会成本→沉没成本→心理账户→前景理论」这条链条，它将经济学的理性框架和心理学的非理性发现连接起来——第四章的认知误判模型（PS-1）和卡尼曼双系统（PS-11）是前景理论（EC-5）的心理学底座。反脆弱（EC-6）与物理化学章的耗散结构（PC-5）和熵增定律（PC-1）构成三级递进——熵增是趋势（混乱必来），耗散结构是对抗（开放系统输入负熵），反脆弱是超越（从混乱中受益）。均值回归（EC-7）与投资章的钟摆理论（IN-7）是同一现象的不同命名——价格围绕价值摆动。网络效应（EC-4）与物理化学章的自催化（PC-3）和临界点（PC-2）一脉相承——自加速到达临界点后不可逆转。增长要素模型（EC-17）与数学章的复利（MT-1）深度绑定——技术进步是唯一能产生复利增长的内生变量。信息不对称（EC-15）与投资章的护城河（IN-3）直接关联——品牌是克服信息不对称的信号机制，本身就是护城河。
+本章最重要的出口是「机会成本→沉没成本→心理账户→前景理论」这条链条，它将经济学的理性框架和心理学的非理性发现连接起来——[第四章的认知误判模型（PS-1）](../04_psychology/PS-1_cognitive_biases.md)[和卡尼曼双系统（PS-11）](../04_psychology/PS-11_dual_system.md)[是前景理论（EC-5）](EC-5_prospect_theory.md)的心理学底座。[反脆弱（EC-6）](EC-6_antifragile.md)[与物理化学章的耗散结构（PC-5）](../01_physics_chemistry/PC-5_dissipative_structure.md)[和熵增定律（PC-1）](../01_physics_chemistry/PC-1_entropy_law.md)构成三级递进——熵增是趋势（混乱必来），耗散结构是对抗（开放系统输入负熵），反脆弱是超越（从混乱中受益）。[均值回归（EC-7）](EC-7_mean_reversion.md)[与投资章的钟摆理论（IN-7）](../12_investing/IN-7_pendulum_theory.md)是同一现象的不同命名——价格围绕价值摆动。[网络效应（EC-4）](EC-4_network_effect.md)[与物理化学章的自催化（PC-3）](../01_physics_chemistry/PC-3_autocatalysis.md)[和临界点（PC-2）](../01_physics_chemistry/PC-2_critical_point.md)一脉相承——自加速到达临界点后不可逆转。[增长要素模型（EC-17）](EC-17_growth_factors.md)[与数学章的复利（MT-1）](../02_mathematics/MT-1_compound_interest.md)深度绑定——技术进步是唯一能产生复利增长的内生变量。[信息不对称（EC-15）](EC-15_information_asymmetry.md)[与投资章的护城河（IN-3）](../12_investing/IN-3_moat.md)直接关联——品牌是克服信息不对称的信号机制，本身就是护城河。
 
 📋 **实战练习**
 

@@ -1,4 +1,4 @@
-### MA-11 SMART目标管理
+# MA-11 SMART目标管理
 
 **1. 一句话理解**
 
@@ -22,7 +22,7 @@ SMART是目标设定的五个标准：Specific（具体——目标必须是明�
 
 **6. 与其他模型关系**
 
-→ OKR（MA-7）：SMART检验KR是否合格——好的KR天然符合SMART标准。→ 双目标清单（MA-16）：SMART是双目标清单5个核心目标的细化工具——选出的5个目标要逐一用SMART检验。
+→ [OKR（MA-7）](MA-7_okr.md)：SMART检验KR是否合格——好的KR天然符合SMART标准。→ [双目标清单（MA-16）](MA-16_two_list_system.md)：SMART是双目标清单5个核心目标的细化工具——选出的5个目标要逐一用SMART检验。
 
 **7. 其他**
 

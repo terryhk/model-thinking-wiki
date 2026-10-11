@@ -1,4 +1,4 @@
-### MA-6 PDCA管理循环
+# MA-6 PDCA管理循环
 
 **1. 一句话理解**
 
@@ -22,7 +22,7 @@ PDCA是持续改进的迭代循环：Plan（计划）制定目标和方案，Do�
 
 **6. 与其他模型关系**
 
-→ GRAI复盘法（MA-9）：PDCA的Check+Act环节本质上就是GRAI复盘——检查结果，分析原因，提炼洞察。→ 清单思维（MA-15）：清单是PDCA中Check环节的标准化工具——没有清单的检查是随意的。
+→ [GRAI复盘法（MA-9）](MA-9_grai.md)：PDCA的Check+Act环节本质上就是GRAI复盘——检查结果，分析原因，提炼洞察。→ [清单思维（MA-15）](MA-15_checklist_thinking.md)：清单是PDCA中Check环节的标准化工具——没有清单的检查是随意的。
 
 **7. 其他**
 

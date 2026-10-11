@@ -15,3 +15,20 @@
 - **[终章](../14_conclusion/README.md)**：格栅的组合力量
 
 读完第四部分，你会意识到：投资决策不是单一学科的应用，而是所有学科的共振——这就是Lollapalooza效应。当安全边际、能力圈、费马帕斯卡系统和反脆弱四种力量同向作用时，你的决策质量不是线性提升，而是指数跃迁。
+
+```mermaid
+flowchart TD
+    subgraph Exam["终极综合考场：第12章 投资学"]
+        IN1["[能力圈（IN-2）](../12_investing/IN-2_circle_of_competence.md)：明确知晓边界，只在圈内下注"]
+        IN2["[安全边际（BU-1）](../07_business/BU-1_margin_of_safety.md)：抗倾覆力矩 > 倾覆力矩，保护未知风险"]
+        IN3["[市场先生（IN-5）](../12_investing/IN-5_mr_market.md)：利用情绪周期，视市场波动为仆人而非导师"]
+        IN4["[费马帕斯卡系统（MT-4）](../02_mathematics/MT-4_fermat_pascal.md)：计算期望值，正期望且胜率高时下重注"]
+    end
+
+    subgraph Reson["Lollapalooza 叠加共振（终章）"]
+        Lolla["多学科模型同向交叉验证<br/>（5个独立模型70%胜率联合出错概率 < 0.24%）"]
+        Loop["系统二分析 $\to$ 刻意练习 $\to$ 系统一直觉内化"]
+    end
+
+    Exam ==> Reson ==> Loop
+```

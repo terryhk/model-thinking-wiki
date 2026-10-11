@@ -14,3 +14,21 @@
 - **[哲学及逻辑学](../05_philosophy/README.md)**（第5章）：如何正确地思考？→ 第一性原理教你穿透表象，系统思维教你看到整体，逆向思维教你从反面验证
 
 读完第二部分，你会建立一套认知校准系统——面对任何判断，你会先问「这是系统1的直觉还是系统2的分析？我有没有被认知偏差劫持？我的前提是否经得起第一性原理的检验？我是否看到了系统整体而非局部？」卡尼曼双系统是底层架构，认知误判是bug清单，元认知是校准开关，刻意练习是修复方法，第一性原理和系统思维是终极工具。
+
+```mermaid
+flowchart TD
+    subgraph S1["底层心智与漏洞识别（第4章 心理学）"]
+        Sys1["System 1 直觉与本能冲动<br/>（容易触发 25 种人类认知误判）"]
+        Meta["[元认知监控开关（PS-8）](../04_psychology/PS-8_metacognition.md)<br/>（抽身审视当前思维模式）"]
+        Sys2["System 2 [理性深思（PS-11）](../04_psychology/PS-11_dual_system.md)<br/>（高耗能、慢思考、纠偏直觉）"]
+        Sys1 -->|唤醒| Meta -->|接管| Sys2
+    end
+
+    subgraph S2["思维升级与终极工具（第5章 哲学与逻辑学）"]
+        FP["[第一性原理（PH-2）](../05_philosophy/PH-2_first_principles.md)<br/>（穿透层层类比，还原物理本质）"]
+        Sys["[系统思维（PH-8）](../05_philosophy/PH-8_systems_thinking.md)<br/>（识别存量、流量与反馈回路）"]
+        Inv["[逆向思维（PH-6）](../05_philosophy/PH-6_inversion.md)<br/>（倒过来想，永远倒过来想）"]
+    end
+
+    Sys2 ==> FP & Sys & Inv
+```

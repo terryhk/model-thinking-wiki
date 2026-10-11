@@ -1,4 +1,4 @@
-### MA-9 GRAI复盘法
+# MA-9 GRAI复盘法
 
 **1. 一句话理解**
 
@@ -22,7 +22,7 @@ GRAI是结构化复盘方法：Goal（回顾目标——当时想达到什么）
 
 **6. 与其他模型关系**
 
-→ PDCA（MA-6）：GRAI是PDCA中Check+Act的结构化版本——PDCA更宏观，GRAI更精细。→ 卢曼卡片盒（MA-13）：GRAI的Insight直接存入卡片盒——好的洞察不应该只存在于复盘会上。
+→ [PDCA（MA-6）](MA-6_pdca.md)：GRAI是PDCA中Check+Act的结构化版本——PDCA更宏观，GRAI更精细。→ [卢曼卡片盒（MA-13）](MA-13_zettelkasten.md)：GRAI的Insight直接存入卡片盒——好的洞察不应该只存在于复盘会上。
 
 **7. 其他**
 
